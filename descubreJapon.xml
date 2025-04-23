@@ -1,60 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Descubre Japón</title>
-    <link>https://www.descubrejapon.com</link>
+    <title>Descubriendo Japón</title>
+    <link>https://www.descubriendojapon.com</link>
     <description>Un blog para los amantes de la cultura japonesa. Historia, gastronomía, costumbres y lugares inolvidables.</description>
     <language>es-es</language>
     <lastBuildDate>Mon, 22 Apr 2025 12:00:00 +0900</lastBuildDate>
 
     <item>
       <title>Hanami: la tradición de contemplar los cerezos</title>
-      <link>https://www.descubrejapon.com/hanami-cerezos</link>
+      <link>https://www.descubriendojapon.com/hanami-cerezos</link>
       <description>Descubre la magia del Hanami, la costumbre japonesa de reunirse bajo los cerezos en flor.</description>
       <pubDate>Mon, 14 Apr 2025 08:00:00 +0900</pubDate>
-      <author>maria@descubrejapon.com (María Gómez)</author>
+      <author>maria@descubriendojapon.com (María Gómez)</author>
       <category>Cultura</category>
-      <enclosure url="https://www.descubrejapon.com/imagenes/hanami.jpg" type="image/jpeg" />
+      <enclosure url="https://www.descubriendojapon.com/imagenes/hanami.jpg" type="image/jpeg" />
     </item>
 
     <item>
       <title>Los mejores onsen para relajarte en Japón</title>
-      <link>https://www.descubrejapon.com/mejores-onsen</link>
+      <link>https://www.descubriendojapon.com/mejores-onsen</link>
       <description>Una guía de los baños termales japoneses más tradicionales y con las mejores vistas.</description>
       <pubDate>Wed, 09 Apr 2025 10:00:00 +0900</pubDate>
-      <author>yuki@descubrejapon.com (Yuki Tanaka)</author>
+      <author>yuki@descubriendojapon.com (Yuki Tanaka)</author>
       <category>Turismo</category>
-      <enclosure url="https://www.descubrejapon.com/imagenes/onsen.jpg" type="image/jpeg" />
+      <enclosure url="https://www.descubriendojapon.com/imagenes/onsen.jpg" type="image/jpeg" />
     </item>
 
     <item>
       <title>5 platos japoneses que debes probar</title>
-      <link>https://www.descubrejapon.com/platos-japoneses</link>
+      <link>https://www.descubriendojapon.com/platos-japoneses</link>
       <description>Del ramen al okonomiyaki: sabores que te transportan directamente a Japón.</description>
       <pubDate>Fri, 18 Apr 2025 15:30:00 +0900</pubDate>
-      <author>hikari@descubrejapon.com (Hikari Sato)</author>
+      <author>hikari@descubriendojapon.com (Hikari Sato)</author>
       <category>Gastronomía</category>
-      <enclosure url="https://www.descubrejapon.com/imagenes/comida.jpg" type="image/jpeg" />
+      <enclosure url="https://www.descubriendojapon.com/imagenes/comida.jpg" type="image/jpeg" />
     </item>
 
     <item>
       <title>¿Qué es un matsuri? Los festivales japoneses más impresionantes</title>
-      <link>https://www.descubrejapon.com/matsuri-festivales</link>
+      <link>https://www.descubriendojapon.com/matsuri-festivales</link>
       <description>Color, tradición y comunidad: conoce los festivales más importantes de Japón.</description>
       <pubDate>Sun, 20 Apr 2025 12:45:00 +0900</pubDate>
-      <author>marco@descubrejapon.com (Marco Ruiz)</author>
+      <author>marco@descubriendojapon.com (Marco Ruiz)</author>
       <category>Tradiciones</category>
-      <enclosure url="https://www.descubrejapon.com/imagenes/matsuri.jpg" type="image/jpeg" />
+      <enclosure url="https://www.descubriendojapon.com/imagenes/matsuri.jpg" type="image/jpeg" />
     </item>
 
     <item>
       <title>Akihabara: el paraíso otaku en Tokio</title>
-      <link>https://www.descubrejapon.com/akihabara</link>
+      <link>https://www.descubriendojapon.com/akihabara</link>
       <description>Un recorrido por el barrio más geek de Japón, lleno de tecnología, anime y cultura pop.</description>
       <pubDate>Tue, 16 Apr 2025 11:15:00 +0900</pubDate>
-      <author>sofia@descubrejapon.com (Sofía López)</author>
+      <author>sofia@descubriendojapon.com (Sofía López)</author>
       <category>Modernidad</category>
-      <enclosure url="https://www.descubrejapon.com/imagenes/akihabara.jpg" type="image/jpeg" />
+      <enclosure url="https://www.descubriendojapon.com/imagenes/akihabara.jpg" type="image/jpeg" />
     </item>
 
   </channel>
