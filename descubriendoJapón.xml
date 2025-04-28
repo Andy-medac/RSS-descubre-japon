@@ -7,7 +7,7 @@
     <language>es</language>
     <copyright>(c) Andy Orpez 2025</copyright>
     <pubDate>Wed, 23 Apr 2025 12:12:39 GMT</pubDate>
-    <lastBuildDate>Mon, 28 Apr 2025 08:21:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Apr 2025 08:24:13 GMT</lastBuildDate>
     <category>Japón</category>
     <generator>Absolute RSS Editor</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
@@ -20,6 +20,7 @@
       <title>Trump y Japón</title>
       <link>https://www.europapress.es/internacional/noticia-japon-descarta-poner-fin-acuerdo-comercial-eeuu-alerta-incongruencias-trump-20250421122735.html</link>
       <description>Japón descarta poner fin a su acuerdo comercial con EEUU pero alerta de las "incongruencias" de Trump</description>
+      <category>Actualidad Japón</category>
       <guid isPermaLink="false">31328281-AD77-4B7B-868E-10A2128E3687</guid>
       <pubDate>Mon, 28 Apr 2025 08:18:24 GMT</pubDate>
     </item>
@@ -27,6 +28,7 @@
       <title>Acusado de violación</title>
       <link>https://www.europapress.es/internacional/noticia-imputado-japon-marine-eeuu-acusado-violar-mujer-base-militar-okinawa-20250424141731.html</link>
       <description>Imputado en Japón un marine de EEUU acusado de violar a una mujer en la base militar de Okinawa</description>
+      <category>Actualidad Japón</category>
       <guid isPermaLink="false">D2296F11-CA4C-4C52-8CDA-1CD1C06B62ED</guid>
       <pubDate>Mon, 28 Apr 2025 08:17:08 GMT</pubDate>
     </item>
@@ -34,6 +36,7 @@
       <title>Andalucía en Japón</title>
       <link>https://www.europapress.es/esandalucia/huelva/noticia-andalucia-trade-presenta-productos-agroalimentarios-67-marcas-andaluzas-mercado-japones-20250424152838.html</link>
       <description>Andalucía Trade presenta los productos agroalimentarios de 67 marcas andaluzas en el mercado japonés</description>
+      <category>Actualidad Japón</category>
       <guid isPermaLink="false">8A520BD1-1435-4429-84CD-D936BC7BE12C</guid>
       <pubDate>Mon, 28 Apr 2025 08:16:18 GMT</pubDate>
     </item>
